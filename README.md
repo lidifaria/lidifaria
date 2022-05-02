@@ -7,7 +7,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23"> Content freelancer 
 - 🎓 Public Relations and Journalist // Internet Systems student
 - 🔍 Part of AlgoritmCOM and InfluCOM, brazilian research groups
-- 💬 Ping me about public relations, tech and comms
+- 💬 Ping me about public relations, content, tech and comms
 - 🧵 Fun fact: I love sewing!
 
   <a href="https://www.linkedin.com/in/lidifaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
