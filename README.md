@@ -3,12 +3,12 @@
 
 ### Hello! I'm Lidi Faria, from São Paulo. 👋
 
-- 👩🏻‍💼 Pronouns: her/ela/dela
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23"> Content freelancer 
-- 🎓 Public Relations and Journalist // Internet Systems student
 - 🔍 Part of AlgoritmCOM and InfluCOM, brazilian research groups
+- 🎓 Public Relations and Journalist // Internet Systems student
 - 💬 Ping me about public relations, content, tech and comms
 - 🧵 Fun fact: I love sewing!
+- 👩🏻‍💼 Pronouns: her/ela/dela
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23"> Content freelancer 
 
   <a href="https://www.linkedin.com/in/lidifaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:falecom@lidifaria.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
