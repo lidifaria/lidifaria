@@ -1,10 +1,12 @@
-<!--
-**lidifaria/lidifaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**lidifaria/lidifaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Hello! I'm Lidi Faria, from São Paulo. 👋
 
+<i>My responsibilities are and have always been solving problems focusing on reliable, innovative, efficient, and optimized solutions using tech, media, data, and communication practices and methodologies.</i>
+
 - 🔍 Part of AlgoritmCOM and InfluCOM, brazilian research groups
-- 🎓 Public Relations and Journalist // Internet Systems student
+- 🧑🏻‍💻 Currently studying Internet Systems.
+- 🎓 Graduated in Public Relations and postgraduate in Journalism
 - 💬 Ping me about public relations, content, tech and comms
 - 🧵 Fun fact: I love sewing!
 - 👩🏻‍💼 Pronouns: her/ela/dela
